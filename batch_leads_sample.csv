@@ -1,0 +1,21 @@
+ID,age,current_occupation,first_interaction,profile_completed,website_visits,time_spent_on_website,page_views_per_visit,last_activity,print_media_type1,print_media_type2,digital_media,educational_channels,referral
+EXT516,43,Professional,Website,Medium,1,202,0.219,Phone Activity,No,No,No,No,No
+EXT4314,57,Unemployed,Mobile App,Medium,2,14,2.213,Email Activity,No,No,No,No,No
+EXT1287,24,Student,Mobile App,Medium,7,356,3.814,Phone Activity,Yes,No,No,Yes,No
+EXT3376,59,Unemployed,Website,High,2,1114,0.006,Website Activity,No,No,No,Yes,No
+EXT187,59,Professional,Website,Medium,3,180,4.186,Phone Activity,Yes,No,No,No,No
+EXT642,58,Professional,Mobile App,Medium,3,259,1.959,Email Activity,Yes,No,No,No,No
+EXT3664,59,Professional,Website,High,1,448,5.44,Email Activity,Yes,No,No,Yes,No
+EXT223,21,Student,Mobile App,High,5,297,3.496,Phone Activity,No,No,No,No,No
+EXT4036,32,Unemployed,Website,High,1,294,2.18,Phone Activity,No,No,No,No,No
+EXT4410,44,Professional,Website,Medium,2,318,0.2,Website Activity,No,No,No,No,No
+EXT668,31,Professional,Website,Medium,1,581,2.265,Website Activity,No,No,Yes,No,No
+EXT1839,20,Student,Website,Medium,1,1058,0.178,Email Activity,No,No,No,No,No
+EXT1727,58,Professional,Mobile App,Medium,1,229,4.295,Website Activity,No,No,No,No,No
+EXT3918,21,Student,Website,Medium,3,31,3.76,Email Activity,No,No,No,No,No
+EXT3820,21,Student,Mobile App,High,6,623,3.6,Email Activity,No,No,No,No,Yes
+EXT1009,57,Professional,Mobile App,Medium,1,651,0.167,Website Activity,No,No,No,No,No
+EXT3145,60,Unemployed,Mobile App,Medium,3,63,3.408,Phone Activity,Yes,No,No,No,No
+EXT2165,32,Unemployed,Mobile App,High,6,42,3.512,Website Activity,No,No,No,No,No
+EXT3629,63,Unemployed,Website,Medium,1,1762,3.337,Website Activity,No,No,No,No,No
+EXT2163,35,Professional,Mobile App,High,2,1584,2.115,Email Activity,No,No,No,No,No
