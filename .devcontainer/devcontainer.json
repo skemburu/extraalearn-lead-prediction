@@ -1,6 +1,10 @@
 {
   "name": "ExtraaLearn Lead Prediction",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
   "forwardPorts": [7860, 8501],
   "portsAttributes": {
     "7860": {"label": "Flask backend API", "onAutoForward": "silent"},
